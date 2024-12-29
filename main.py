@@ -1,8 +1,4 @@
 print("Hello word first one")
 print("Hello world 2")
 print("Hello word first one")
-print("Hello world 2")
-print("Hello world 3")
-print("fourth one")
-print("six one")
 print("new")
